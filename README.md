@@ -1,7 +1,7 @@
 Complex-Scaling
 ===============
 
-Codes to solve the complex scaled Schrodinger problem.  Includes:
+Brute force odes to solve the complex scaled Schrodinger problem.  Note these are not very scalable and are for testing model systems.  Includes:
 
 fgh1dcs.m - Fourier Grid Hamiltonian method in 1D,
 multistep.m - Multistep scattering method,
